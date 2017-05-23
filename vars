@@ -1,0 +1,8 @@
+PASSPHRASE='' # GPG Passphrase
+FTP_PASSWORD="" # Backblaze Application Key
+bc_id="" # Backblaze Account ID
+bucket="" # B2 Cloud Storage Bucket Name
+rotation_time="12M" # Delete back-ups if they're older than this
+full_if_older="6M" # Force a full back-up if the previous full is older than
+key_id="" # GPG Key ID
+
